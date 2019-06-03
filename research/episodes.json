@@ -1,0 +1,382 @@
+https://amp-api.podcasts.apple.com/v1/catalog/se/podcasts/1028908750/episodes?offset=6&limit=10
+{
+  "next": "/v1/catalog/se/podcasts/1028908750/episodes?offset=16",
+  "data": [
+    {
+      "id": "1000434461022",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000434461022",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/radically-normal/id1028908750?i=1000434461022",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Radically Normal",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/04/20190408_hiddenbrain_radically_normal_april_8_2019_hb_mix-3daa9064-bd82-48db-8b29-437a0a249b32.mp3?awCollectionId=510308&awEpisodeId=709567750&orgId=1&aggIds=423302056&d=3134&p=510308&story=709567750&t=podcast&e=709567750&size=0&ft=pod&f=510308",
+        "releaseDateTime": "2019-04-08T22:48:00Z",
+        "durationInMilliseconds": 3134000,
+        "guid": "bc488110-4958-40d7-8a4f-5da9be73a9be",
+        "description": {
+          "standard": "For generations, living openly as a gay person in the United States was difficult, and often dangerous. But there's been a dramatic change in public attitudes toward gay people. This week, we explore one of the most striking transformations of public attitude ever recorded. And we consider whether the strategies used by gay rights activists hold lessons for other groups seeking change.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/04/03/709567750/radically-normal-how-gay-rights-activists-changed-the-minds-of-their-opponents",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1000433912077",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000433912077",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/dont-panic/id1028908750?i=1000433912077",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Don't Panic!",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/04/20190401_hiddenbrain_hb_don_t_panic_-_rebroadcast_pod_4-1-19-7e61d9e2-7098-4d09-9f9a-2997149a1e26.mp3?awCollectionId=510308&awEpisodeId=708784662&orgId=1&topicId=1007&aggIds=423302056&d=3074&p=510308&story=708784662&t=podcast&e=708784662&size=49081191&ft=pod&f=510308",
+        "releaseDateTime": "2019-04-01T22:24:44Z",
+        "durationInMilliseconds": 3074000,
+        "guid": "c69d1444-42db-48a3-8f3b-c6b2e57bfe63",
+        "description": {
+          "standard": "Chaos is a part of all of our lives. Sometimes we try to control it. And other times, we just have to live with it. On this week's Hidden Brain, we bring you two of our favorite stories about coping with chaos. They come from our 2016 episodes \"Panic in the Streets\" and \"Embrace the Chaos.\"",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/04/01/708784662/dont-panic-stories-of-coping-amidst-chaos",
+        "contentRating": "clean"
+      }
+    },
+    {
+      "id": "1000433386809",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000433386809",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/what-twins-tell-us/id1028908750?i=1000433386809",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "What Twins Tell Us",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/03/20190325_hiddenbrain_hb_-_what_twins_tell_us_-_pod_mix_3-25_436pm-7743825b-9805-42c0-95b1-741010599de4.mp3?awCollectionId=510308&awEpisodeId=705487258&orgId=1&topicId=1007&aggIds=423302056&d=1819&p=510308&story=705487258&t=podcast&e=705487258&size=29042588&ft=pod&f=510308",
+        "releaseDateTime": "2019-03-25T21:38:46Z",
+        "durationInMilliseconds": 1819000,
+        "guid": "048aec5a-43aa-4611-b235-7710981dd91b",
+        "description": {
+          "standard": "Twin studies aren't just for twins. They're a paradigm for all of us, a way to explore an old question: how much are we shaped by our genes, and how much by our environment?"
+        },
+        "websiteUrl": "https://www.npr.org/2019/03/21/705487258/what-twins-can-tell-us-about-who-we-are",
+        "contentRating": "clean"
+      }
+    },
+    {
+      "id": "1000432261354",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000432261354",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/never-go-to-vegas/id1028908750?i=1000432261354",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Never Go To Vegas",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/03/20190318_hiddenbrain_hb_pr_92_-_never_go_to_vegas-club_rules_-_rebroadcast_podcast_3-18-19-5fca4303-bd61-4938-a77d-728d8e8b0d89.mp3?awCollectionId=510308&awEpisodeId=704416322&orgId=1&aggIds=423302056&d=2835&p=510308&story=704416322&t=podcast&e=704416322&size=45261888&ft=pod&f=510308",
+        "releaseDateTime": "2019-03-18T20:01:20Z",
+        "durationInMilliseconds": 2835000,
+        "guid": "2b67367b-7d91-4dd1-b85c-8af4da8e45b4",
+        "description": {
+          "standard": "All social classes have unspoken rules. From A-list celebrities to teachers, doctors, lawyers, and journalists — there are social norms that govern us, whether we realize it or not. This week on Hidden Brain, we look celebrity culture, as well as  another elite group: the yoga-loving, Whole Foods-shopping, highly-educated people whom one researcher calls the new \"aspirational class.\" This episode is from December 2017.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/03/18/704416322/never-go-to-vegas",
+        "contentRating": "clean"
+      }
+    },
+    {
+      "id": "1000431563247",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000431563247",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/unreal-sex/id1028908750?i=1000431563247",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Unreal Sex",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/03/20190311_hiddenbrain_hb_unreal_sex_podcast_mix_03-11_456pm-f7e935e8-0ef4-412f-a428-738d185c4c4a.mp3?awCollectionId=510308&awEpisodeId=701632247&orgId=1&topicId=1019&aggIds=423302056&d=1734&p=510308&story=701632247&t=podcast&e=701632247&size=27690674&ft=pod&f=510308",
+        "releaseDateTime": "2019-03-11T22:01:38Z",
+        "durationInMilliseconds": 1734000,
+        "guid": "f9031653-d24e-45af-a7f1-f89b0a16f488",
+        "description": {
+          "standard": "From stone statues to silicone works of art, we have long sought solace and sex from inanimate objects. Time and technology have perfected the artificial lover: today we have life-size silicone love dolls so finely crafted they feel like works of art.  Now, with the help of robotics and artificial intelligence, these dolls are becoming even more like humans. This week we talk with researcher Kate Devlin about the history of the artificial lover, and consider what love and sex look like in the age of robots.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/03/08/701632247/love-sex-and-robots",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1000431076500",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000431076500",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/for-sale-by-owner/id1028908750?i=1000431076500",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "For Sale, By Owner",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/03/20190301_hiddenbrain_hb_for_sale_by_owner_pod_mix_03-01-5dd6b91e-2ed3-4a82-9f59-2d0afd9abbb7.mp3?awCollectionId=510308&awEpisodeId=698563807&orgId=1&topicId=1007&aggIds=423302056&d=1951&p=510308&story=698563807&t=podcast&e=698563807&size=0&ft=pod&f=510308",
+        "releaseDateTime": "2019-03-04T22:05:16Z",
+        "durationInMilliseconds": 1951000,
+        "guid": "acbec204-b98d-42ca-b856-9f30c5999f8e",
+        "description": {
+          "standard": "You own your body. So should you be able to sell parts of it? This week, we explore the concept of \"repugnant transactions\" with the man who coined the term, Nobel Prize- winning economist Al Roth. He says repugnant transactions can range from selling organs to poorly-planned gift exchanges — and what's repugnant in one place and time is often not repugnant in another.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/02/27/698563807/for-sale-by-owner-the-psychology-of-repugnant-transactions",
+        "contentRating": "clean"
+      }
+    },
+    {
+      "id": "1000430906129",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000430906129",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/radio-replay-playing-the-gender-card/id1028908750?i=1000430906129",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Radio Replay: Playing The Gender Card",
+        "kind": "bonus",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/02/20190226_hiddenbrain_hb_pr_playing_the_gender_card__-_rr_mis_2-26-19-800520e3-f66f-4eee-b59d-dd318117647f.mp3?awCollectionId=510308&awEpisodeId=699310854&orgId=1&topicId=1007&d=2964&p=510308&story=699310854&t=podcast&e=699310854&size=0&ft=pod&f=510308",
+        "releaseDateTime": "2019-03-01T22:00:26Z",
+        "durationInMilliseconds": 2964000,
+        "guid": "f2bdfedb-76b0-4506-96cc-1a0244ea7b25",
+        "description": {
+          "standard": "Annie Duke was about to win $2 million. It was 2004, and she was at the final hand of the World Series of Poker Tournament of Champions. But as a woman at a table full of men, she wasn't sure she deserved to be there. In this week's Radio Replay, we tell the stories of two people who grappled with gender stereotypes on the job. Annie Duke shares her experiencing at the World Series of Poker, and then we hear the story of Robert Vaughan, a former Navy sailor who decided to pursue a new career as a nurse.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/03/01/699310854/radio-replay-playing-the-gender-card",
+        "contentRating": "clean"
+      }
+    },
+    {
+      "id": "1000430614306",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000430614306",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/better-than-cash/id1028908750?i=1000430614306",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Better Than Cash",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/02/20190225_hiddenbrain_better_than_cash_-_bruno_frey_-_final_2-25-19-3095a5bd-5035-4056-b718-811f796b1429.mp3?awCollectionId=510308&awEpisodeId=697641324&orgId=1&topicId=1024&aggIds=423302056&d=1689&p=510308&story=697641324&t=podcast&e=697641324&size=0&ft=pod&f=510308",
+        "releaseDateTime": "2019-02-25T22:54:35Z",
+        "durationInMilliseconds": 1689000,
+        "guid": "15b121ef-1df3-480a-94ff-d9ed16d87c53",
+        "description": {
+          "standard": "Our modern world is saturated with awards. From elementary school classrooms to Hollywood to the hallways of academia, there's no shortage of prizes. But — do they work?"
+        },
+        "websiteUrl": "https://www.npr.org/2019/02/25/697641324/better-than-cash-how-awards-can-shape-our-behavior",
+        "contentRating": "clean"
+      }
+    },
+    {
+      "id": "1000430127482",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000430127482",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/emma-carrie-vivian/id1028908750?i=1000430127482",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Emma, Carrie, Vivian",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/02/20190219_hiddenbrain_hb_pod_104_-_emma_carrie_vivian__-_rebroadcast_mix_no_babymid-dbbf12c2-a76b-4626-a3b4-c4fe0eda87fd-8fe220eb-0820-4feb-b630-726b56cc5c76.mp3?awCollectionId=510308&awEpisodeId=695574984&orgId=1&topicId=1136&aggIds=423302056&d=2491&p=510308&story=695574984&t=podcast&e=695574984&size=0&ft=pod&f=510308",
+        "releaseDateTime": "2019-02-18T21:01:15Z",
+        "durationInMilliseconds": 2491000,
+        "guid": "1df2b36e-4331-402e-99d8-163f89ad5383",
+        "description": {
+          "standard": "The eugenicists were utopians, convinced that they were doing hard but necessary things. And that included making decisions about who could have children."
+        },
+        "websiteUrl": "https://www.npr.org/2019/02/17/695574984/emma-carrie-vivian-how-a-family-became-a-test-case-for-forced-sterilizations",
+        "contentRating": "clean"
+      }
+    },
+    {
+      "id": "1000429664016",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/se/podcast-episodes/1000429664016",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/se/podcast/close-enough/id1028908750?i=1000429664016",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Vetenskap och medicin"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Close Enough",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/02/20190213_hiddenbrain_hb_close_enough_pod_mix_02-13_837am-26b56570-d7e5-4ad0-8d98-048b72cd1be9-7103c448-8c95-45e9-91f6-60aecefea4f2.mp3?awCollectionId=510308&awEpisodeId=691697963&orgId=1&topicId=1007&aggIds=423302056&d=3000&p=510308&story=691697963&t=podcast&e=691697963&size=0&ft=pod&f=510308",
+        "releaseDateTime": "2019-02-11T22:32:22Z",
+        "durationInMilliseconds": 3000000,
+        "guid": "639ef75b-b196-4cc1-99df-8068bc48a18b",
+        "description": {
+          "standard": "Today, more and more of us are living through the people on our screens and in our headphones. It's not real, but for many of us, it's close enough."
+        },
+        "websiteUrl": "https://www.npr.org/2019/02/05/691697963/close-enough-the-lure-of-living-through-others",
+        "contentRating": "explicit"
+      }
+    }
+  ]
+}

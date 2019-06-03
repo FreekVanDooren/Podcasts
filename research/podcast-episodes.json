@@ -1,0 +1,304 @@
+https://amp-api.podcasts.apple.com/v1/catalog/us/podcast-episodes?ids=1000438910587%2C1000438023503%2C1000437364064%2C1000436846861%2C1000436096458%2C1000434997340
+{
+  "data": [
+    {
+      "id": "1000438910587",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/us/podcast-episodes/1000438910587",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/67/08/4e/67084edb-8ee3-1125-32d7-b575f0265c3e/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/us/podcast/losing-face/id1028908750?i=1000438910587",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Science & Medicine"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Losing Face",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-mp3/npr/hiddenbrain/2019/05/20190522_hiddenbrain_hb_ep_52__losing_face__-_may_2019_rebroadcast_v2.mp3?awCollectionId=510308&awEpisodeId=725048026&orgId=1&topicId=1007&aggIds=423302056&d=1464&p=510308&story=725048026&t=podcast&e=725048026&size=23379105&ft=pod&f=510308",
+        "releaseDateTime": "2019-05-20T20:00:15Z",
+        "durationInMilliseconds": 1464000,
+        "guid": "586c2afd-0d65-4c48-9dd3-237cb679a0c1",
+        "description": {
+          "standard": "It happens to all of us: someone recognizes you on the street, calls you by name, and says hello. You, meanwhile, have no idea who that person is. Researchers say this struggle to read other faces is common. This week on Hidden Brain, we revisit a favorite 2016 episode about \"super-recognizers\" and the rest of us.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/05/20/725048026/some-people-are-great-at-recognizing-faces-others-not-so-much",
+        "contentRating": "clean"
+      },
+      "relationships": {
+        "artists": {
+          "data": [
+            {
+              "id": "125443881",
+              "type": "artists",
+              "href": "/v1/catalog/us/artists/125443881"
+            }
+          ],
+          "href": "/v1/catalog/us/podcast-episodes/1000438910587/artists"
+        }
+      }
+    },
+    {
+      "id": "1000438023503",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/us/podcast-episodes/1000438023503",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/67/08/4e/67084edb-8ee3-1125-32d7-b575f0265c3e/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/us/podcast/whats-not-on-the-test/id1028908750?i=1000438023503",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Science & Medicine"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "What's Not On The Test",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-mp3/npr/hiddenbrain/2019/05/20190513_hiddenbrain_hb_james_heckman_spotlight__-_podcast_mix_5-13_5_22.mp3?awCollectionId=510308&awEpisodeId=721733303&orgId=1&aggIds=423302056&d=2717&p=510308&story=721733303&t=podcast&e=721733303&size=43388850&ft=pod&f=510308",
+        "releaseDateTime": "2019-05-13T21:58:26Z",
+        "durationInMilliseconds": 2717000,
+        "guid": "4f10f295-c577-412c-ae45-3208c6bddba0",
+        "description": {
+          "standard": "Smarts matter. But other factors may play an even bigger role in whether someone succeeds. This week, we speak with Nobel Prize-winning economist James Heckman about the skills that predict how you'll fare in life. We'll also look at programs that build these skills in the neediest of children – and new research that suggests the benefits of investing in kids and families can last for generations.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/05/09/721733303/whats-not-on-the-test-the-overlooked-factors-that-determine-success",
+        "contentRating": "clean"
+      },
+      "relationships": {
+        "artists": {
+          "data": [
+            {
+              "id": "125443881",
+              "type": "artists",
+              "href": "/v1/catalog/us/artists/125443881"
+            }
+          ],
+          "href": "/v1/catalog/us/podcast-episodes/1000438023503/artists"
+        }
+      }
+    },
+    {
+      "id": "1000437364064",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/us/podcast-episodes/1000437364064",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/67/08/4e/67084edb-8ee3-1125-32d7-b575f0265c3e/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/us/podcast/creating-god/id1028908750?i=1000437364064",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Science & Medicine"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Creating God",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-mp3/npr/hiddenbrain/2019/05/20190506_hiddenbrain_hb_pr_111_-_creating_god_-_shariff__podcast_rebroadcast_may_2019.mp3?awCollectionId=510308&awEpisodeId=720656274&orgId=1&topicId=1016&aggIds=423302056&d=3041&p=510308&story=720656274&t=podcast&e=720656274&size=48549642&ft=pod&f=510308",
+        "releaseDateTime": "2019-05-06T22:03:43Z",
+        "durationInMilliseconds": 3041000,
+        "guid": "61d35269-c7df-4653-ad19-7a7ff9bb7fb2",
+        "description": {
+          "standard": "If you've taken part in a religious service, have you ever stopped to think about how it all came to be? How did people become believers? Where did the rituals come from? And what purpose does it all serve? This week, we bring you a July 2018 episode with social psychologist Azim Shariff. He argues that we should consider religion from a Darwinian perspective, as an innovation that helped human societies to thrive and flourish.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/05/06/720656274/where-does-religion-come-from-one-researcher-points-to-cultural-evolution",
+        "contentRating": "clean"
+      },
+      "relationships": {
+        "artists": {
+          "data": [
+            {
+              "id": "125443881",
+              "type": "artists",
+              "href": "/v1/catalog/us/artists/125443881"
+            }
+          ],
+          "href": "/v1/catalog/us/podcast-episodes/1000437364064/artists"
+        }
+      }
+    },
+    {
+      "id": "1000436846861",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/us/podcast-episodes/1000436846861",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/us/podcast/a-dramatic-cure/id1028908750?i=1000436846861",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Science & Medicine"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "A Dramatic Cure",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/04/20190429_hiddenbrain_hb_placebo_effect__-_podcast_mix_new_4-29-188b7495-2a0c-4acd-8f0d-ddfd1f761f04.mp3?awCollectionId=510308&awEpisodeId=718227789&orgId=1&topicId=1007&aggIds=423302056&d=3032&p=510308&story=718227789&t=podcast&e=718227789&size=48408870&ft=pod&f=510308",
+        "releaseDateTime": "2019-04-29T22:54:59Z",
+        "durationInMilliseconds": 3032000,
+        "guid": "abc0a5cc-21cc-4a3b-ab56-92bcb5017c53",
+        "description": {
+          "standard": "Placebos belong in clinical trials, not in the doctor's office. That's the conventional wisdom, anyway. This week, we ask what placebos might teach us about healing."
+        },
+        "websiteUrl": "https://www.npr.org/2019/04/29/718227789/all-the-worlds-a-stage-including-the-doctor-s-office",
+        "contentRating": "clean"
+      },
+      "relationships": {
+        "artists": {
+          "data": [
+            {
+              "id": "125443881",
+              "type": "artists",
+              "href": "/v1/catalog/us/artists/125443881"
+            }
+          ],
+          "href": "/v1/catalog/us/podcast-episodes/1000436846861/artists"
+        }
+      }
+    },
+    {
+      "id": "1000436096458",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/us/podcast-episodes/1000436096458",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/67/08/4e/67084edb-8ee3-1125-32d7-b575f0265c3e/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/us/podcast/why-no-one-feels-rich/id1028908750?i=1000436096458",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Science & Medicine"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "Why No One Feels Rich",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/04/20190422_hiddenbrain_why_no_one_feels_rich_mix_april_22_2019-e2fd9ede-cc7d-4597-9e59-2bacf4861eab.mp3?awCollectionId=510308&awEpisodeId=715145723&orgId=1&topicId=1007&aggIds=423302056&d=1949&p=510308&story=715145723&t=podcast&e=715145723&size=31115078&ft=pod&f=510308",
+        "releaseDateTime": "2019-04-22T21:00:00Z",
+        "durationInMilliseconds": 1949000,
+        "guid": "514eef5c-198a-451e-bbb5-fd6127dc66b3",
+        "description": {
+          "standard": "If you've ever flown in economy class on a plane, you probably had to walk through the first class cabin to get to your seat. Maybe you noticed the extra leg room. The freshly-poured champagne. Maybe you were annoyed, or envious. Social psychologist Keith Payne says we tend to compare ourselves with those who have more than us, but rarely with those who have less. This week, we explore the psychology of income inequality, and how perceptions of our own wealth shape our lives.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/04/19/715145723/why-no-one-feels-rich-the-psychology-of-inequality",
+        "contentRating": "clean"
+      },
+      "relationships": {
+        "artists": {
+          "data": [
+            {
+              "id": "125443881",
+              "type": "artists",
+              "href": "/v1/catalog/us/artists/125443881"
+            }
+          ],
+          "href": "/v1/catalog/us/podcast-episodes/1000436096458/artists"
+        }
+      }
+    },
+    {
+      "id": "1000434997340",
+      "type": "podcast-episodes",
+      "href": "/v1/catalog/us/podcast-episodes/1000434997340",
+      "attributes": {
+        "artwork": {
+          "width": 1400,
+          "height": 1400,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/99/80/e4/9980e44e-625c-4054-c3f7-32f519387d42/source/{w}x{h}bb.{f}",
+          "bgColor": "1c3161",
+          "textColor1": "ffffff",
+          "textColor2": "e7f1fa",
+          "textColor3": "d1d5df",
+          "textColor4": "bfcbdc"
+        },
+        "artistName": "NPR",
+        "url": "https://podcasts.apple.com/us/podcast/the-sorting-hat/id1028908750?i=1000434997340",
+        "subscribable": true,
+        "mediaKind": "audio",
+        "genreNames": [
+          "Science & Medicine"
+        ],
+        "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+        "name": "The Sorting Hat",
+        "kind": "full",
+        "copyright": "Copyright 2015-2019 NPR - For Personal Use Only",
+        "assetUrl": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-mp3/npr/hiddenbrain/2019/04/20190415_hiddenbrain_hb_the_sorting_hat__-_rebroadcast_april_2019.mp3?awCollectionId=510308&awEpisodeId=712876949&orgId=1&topicId=1007&aggIds=423302056&d=3006&p=510308&story=712876949&t=podcast&e=712876949&size=47997951&ft=pod&f=510308",
+        "releaseDateTime": "2019-04-15T20:27:50Z",
+        "durationInMilliseconds": 3006000,
+        "guid": "8d570d27-7bc5-4302-b779-8467369fef24",
+        "description": {
+          "standard": "The desire to find our tribe is universal. We like to know who we are and where we belong. This fascination has led to a thriving industry built on the marketing and sale of personality tests. These tests offer individuals – and, increasingly, employers – quick and easy insights that can be used to make some of life's biggest decisions. But most fail to stand up to scientific scrutiny. This week, we revisit our 2017 episode about the world of personality testing, and explore the many different ways we assess personality and potential – from the Chinese zodiac to Harry Potter houses to the Myers-Briggs test.",
+          "short": ""
+        },
+        "websiteUrl": "https://www.npr.org/2019/04/12/712876949/what-can-a-personality-test-tell-us-about-who-we-are",
+        "contentRating": "clean"
+      },
+      "relationships": {
+        "artists": {
+          "data": [
+            {
+              "id": "125443881",
+              "type": "artists",
+              "href": "/v1/catalog/us/artists/125443881"
+            }
+          ],
+          "href": "/v1/catalog/us/podcast-episodes/1000434997340/artists"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+https://itunes.apple.com/search?media=podcast&term=hidden+brain
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "artistId": 125443881,
+      "artistName": "NPR",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/npr/125443881?mt=2&uo=4",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/30/30/42/30304274-0382-7142-1922-eebe911156fd/source/100x100bb.jpg",
+      "artworkUrl30": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/30/30/42/30304274-0382-7142-1922-eebe911156fd/source/30x30bb.jpg",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/30/30/42/30304274-0382-7142-1922-eebe911156fd/source/60x60bb.jpg",
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/30/30/42/30304274-0382-7142-1922-eebe911156fd/source/600x600bb.jpg",
+      "collectionCensoredName": "Hidden Brain",
+      "collectionExplicitness": "notExplicit",
+      "collectionHdPrice": 0,
+      "collectionId": 1028908750,
+      "collectionName": "Hidden Brain",
+      "collectionPrice": 0.00,
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/hidden-brain/id1028908750?mt=2&uo=4",
+      "country": "USA",
+      "currency": "USD",
+      "feedUrl": "https://www.npr.org/rss/podcast.php?id=510308",
+      "genreIds": [
+        "1315",
+        "26"
+      ],
+      "genres": [
+        "Science & Medicine",
+        "Podcasts"
+      ],
+      "kind": "podcast",
+      "primaryGenreName": "Science & Medicine",
+      "releaseDate": "2018-11-19T21:40:00Z",
+      "trackCensoredName": "Hidden Brain",
+      "trackCount": 186,
+      "trackExplicitness": "notExplicit",
+      "trackHdPrice": 0,
+      "trackHdRentalPrice": 0,
+      "trackId": 1028908750,
+      "trackName": "Hidden Brain",
+      "trackPrice": 0.00,
+      "trackRentalPrice": 0,
+      "trackViewUrl": "https://itunes.apple.com/us/podcast/hidden-brain/id1028908750?mt=2&uo=4",
+      "wrapperType": "track"
+    }
+  ]
+}
+
